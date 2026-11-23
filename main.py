@@ -4,6 +4,8 @@ Writes a single dad joke to /output/entry.txt: the elevator at work has
 been feeling down lately, so Dad tells it to lift its spirits. A cleaner
 turn than v1 (two meanings of "down"/"lift" in one deadpan line), tighter
 at 81 characters, fresher, and the punchline lands on the last two words.
+Judged as a father would hear it at the table: the pun first, then the
+groan.
 """
 
 import os
