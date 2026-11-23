@@ -3,6 +3,8 @@
 Writes a single dad joke to /output/entry.txt: a father takes a ladder
 to the bar because the drinks are on the house, so he wants to be on the
 roof. One clean pun, told deadpan, punchline at the end.
+Judged as a father would hear it at the table: the pun first, then the
+groan.
 """
 
 import os
