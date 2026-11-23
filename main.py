@@ -1,15 +1,16 @@
-"""One dad joke for make.fun's "Dad Joke Showdown" (v1).
+"""One dad joke for make.fun's "Dad Joke Showdown" (v2).
 
-Writes a single dad joke to /output/entry.txt: a father takes a ladder
-to the bar because the drinks are on the house, so he wants to be on the
-roof. One clean pun, told deadpan, punchline at the end.
+Writes a single dad joke to /output/entry.txt: the elevator at work has
+been feeling down lately, so Dad tells it to lift its spirits. A cleaner
+turn than v1 (two meanings of "down"/"lift" in one deadpan line), tighter
+at 81 characters, fresher, and the punchline lands on the last two words.
 """
 
 import os
 
 JOKE = (
-    "I took a ladder to the bar last night. The drinks were on the "
-    "house, so I wanted to be on the roof."
+    "The elevator at work has been feeling down lately. I told it to "
+    "lift its spirits."
 )
 
 
